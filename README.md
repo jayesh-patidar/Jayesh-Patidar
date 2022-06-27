@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jayesh-Patidar
 - 👀 I’m interested in coding
+- 💻 Working on Node, Laravel
 - 🌱 I’m currently learning NEXT JS, REACT JS
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me j.patidar1910@gmail.com
