@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Jayesh-Patidar
-- 👀 I’m interested in coding
-- 💻 Working on Node, Laravel
-- 🌱 I’m currently learning NEXT JS, REACT JS
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me j.patidar1910@gmail.com
+👋 Hello, World!
+I'm Jayes Patidar - a passionate developer, coder, and tech enthusiast. 🌟
+
+🔭 Currently Working On:
+- Exploring new technologies and frameworks 🚀
+- Sometimes contributing to open-source projects 🌍
+- Building innovative solutions and tools 🛠️
+
+🌱 Learning & Growing:
+- Diving deep into NodeJs, Go Lang, NextJs
+- Mastering [Laravel](https://laravel.com/), [NestJs](https://nestjs.com/), [NextJs](https://nextjs.org/)
+
+🔗 Find Me Around the Web:
+- [LinkedIn](https://www.linkedin.com/in/jayesh-patidar-476a79186/)
+- [Twitter/X](https://x.com/JayeshPati58635)
+- Email js.patidar10@gmail.com
 
 <!---
 Jayesh-Patidar/Jayesh-Patidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
