@@ -7,7 +7,7 @@ I'm Jayes Patidar - a passionate developer, coder, and tech enthusiast. 🌟
 - Building innovative solutions and tools 🛠️
 
 🌱 Learning & Growing:
-- Diving deep into NodeJs, Go Lang, NextJs
+- Diving deep into LLM and RAG
 - Mastering [Laravel](https://laravel.com/), [NestJs](https://nestjs.com/), [NextJs](https://nextjs.org/)
 
 🔗 Find Me Around the Web:
